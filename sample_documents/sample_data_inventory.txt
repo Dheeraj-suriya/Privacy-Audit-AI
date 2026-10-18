@@ -1,0 +1,14 @@
+CUSTOMER DATA INVENTORY — ACME DIGITAL SERVICES
+
+Data Category | Data Elements | Collection Source | Storage | Third Parties
+--------------|---------------|-------------------|---------|--------------
+Identity | Name, email, phone | Website registration | Cloud DB | None
+Government ID | Aadhaar, PAN | KYC verification | Encrypted DB | Verification vendor
+Financial | Bank account, IFSC, card | Payment page | Payment gateway | Stripe, Razorpay
+Location | Address, PIN, GPS | Mobile app | Cloud DB | Maps API
+Employment | Employee ID, salary | HR system | Internal server | Payroll processor
+Online | IP, device ID, cookies | Website/app | Analytics | Google Analytics
+
+Note: Retention periods not yet defined for all categories.
+Cross-border transfer to US-based cloud provider in progress.
+Deletion procedures under review.

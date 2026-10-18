@@ -1,0 +1,28 @@
+VENDOR PROCESSING AGREEMENT — ACME DIGITAL SERVICES
+
+This agreement is between Acme Digital Services and CloudHost Pro.
+
+1. DATA PROCESSING
+CloudHost Pro will process customer personal data on behalf of Acme Digital Services.
+
+2. DATA CATEGORIES
+• Customer contact information
+• Transaction data
+• Analytics data
+
+3. SECURITY MEASURES
+CloudHost Pro agrees to implement appropriate technical and organizational measures.
+
+4. SUBPROCESSORS
+CloudHost Pro may engage subprocessors with prior notice.
+
+5. CROSS-BORDER TRANSFERS
+Data may be transferred to data centers in the United States and Singapore.
+
+6. AUDIT RIGHTS
+Acme Digital Services reserves the right to audit CloudHost Pro's compliance.
+
+7. BREACH NOTIFICATION
+CloudHost Pro will notify Acme within 48 hours of discovering a breach.
+
+Signed: [Pending final legal review]

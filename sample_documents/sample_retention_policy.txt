@@ -1,0 +1,19 @@
+DATA RETENTION POLICY — ACME DIGITAL SERVICES
+
+1. PURPOSE
+This policy defines retention periods for personal data processed by Acme Digital Services.
+
+2. RETENTION SCHEDULES
+• Customer account data: Retained for active account period
+• Transaction records: Retained for 7 years (legal requirement)
+• Marketing data: Retained until opt-out
+• Log files: Retained for 1 year
+
+3. DELETION PROCEDURES
+[Section under development — procedures to be documented]
+
+4. EXCEPTIONS
+Data subject to litigation hold may be retained beyond standard periods.
+
+Approved by: [Signature pending]
+Date: [Pending approval]

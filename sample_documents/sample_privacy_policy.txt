@@ -1,0 +1,43 @@
+PRIVACY POLICY — ACME DIGITAL SERVICES
+
+Last Updated: January 1, 2024
+
+1. INTRODUCTION
+Acme Digital Services ("we", "us", "our") respects your privacy. This Privacy Policy explains how we collect, use, and protect your personal information.
+
+2. INFORMATION WE COLLECT
+We collect the following types of personal data:
+• Name and email address
+• Phone number
+• Residential address and PIN code
+• Payment information including credit card details
+• IP address and device identifiers
+• Employment history and salary information
+
+3. HOW WE USE YOUR INFORMATION
+We process your data for the following purposes:
+• Providing our digital services
+• Processing payments
+• Customer support and communication
+• Analytics and service improvement
+• Marketing communications (with consent)
+
+4. DATA SHARING
+We share your personal data with:
+• Payment processors
+• Cloud hosting providers
+• Analytics platforms
+• Third-party marketing partners
+
+5. DATA RETENTION
+We retain your personal data for as long as necessary to provide our services.
+
+6. YOUR RIGHTS
+You may contact us to access or update your information.
+
+7. SECURITY
+We use industry-standard security measures to protect your data.
+
+8. CONTACT
+Email: privacy@acmedigital.example.com
+Phone: +91-98765-43210
